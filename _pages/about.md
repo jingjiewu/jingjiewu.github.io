@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingjie Wu's Web page"
+title: "About Me"
 excerpt: "Jingjie Wu's Web page"
 author_profile: true
 redirect_from:
